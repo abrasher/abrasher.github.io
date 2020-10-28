@@ -1,5 +1,5 @@
 ## Quicklinks
-[Request a Show or Movie](https://rb.swizzin.ltd/qinsignificance/ombi)
+* [Request a Show or Movie](https://rb.swizzin.ltd/qinsignificance/ombi)
 
 ## FAQ
 
@@ -34,4 +34,4 @@ Therefore the monthly cost is around $7 per user.
 | Total                  | - / -       | - / -     |          555.8 |
 
 ### Can I invite someone I know?
-Sure, the most users we have the less it costs for each person overall!
+Sure, the more users we have the less it costs for each person overall!
