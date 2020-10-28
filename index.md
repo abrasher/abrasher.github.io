@@ -1,6 +1,4 @@
-## Interstellarum Plex Server
-
-### Quicklinks
+## Quicklinks
 [Request a Show or Movie](https://rb.swizzin.ltd/qinsignificance/ombi)
 
 ### Markdown
