@@ -1,5 +1,5 @@
 ## Quicklinks
-[Request a Show or Movie](https://rb.swizzin.ltd/qinsignificance/ombi)
+###[Request a Show or Movie](https://rb.swizzin.ltd/qinsignificance/ombi)
 
 ## FAQ
 
@@ -15,6 +15,12 @@ You can play at any quality! There is usually a quality setting in each Plex tha
 ### Can I download stuff offline to watch on a trip?
 Yes you can, however this requires the paid verison of the plex app of choice (Android/ iOS)
 
+### How can I get access to 4K content?
+You can ask for access to a 4K TV and Movie Library. They are two separate libraries. There are some requirements though:
+1. You can't transcode 4K well if at all. This means you have to play at original quality with a compaitable player. I can help with this.
+2. 4K Movies require a good internet connection, at least 100 Mbps for smooth playback.
+3. Most 4K content is HDR which requires a device that playback HDR and a display that can play HDR. Without this the colours are washed out and unwatchable.
+
 ### How much does the server cost a month?
 The server costs me around 46 dollars a month. I am sharing the server with myself and 6 others.
 Therefore the monthly cost is around $7 per user.
@@ -26,3 +32,6 @@ Therefore the monthly cost is around $7 per user.
 | Usenet Indexer         | 32          | 15 Months |           25.6 |
 | Server Box             | 290         | Yearly    |            290 |
 | Total                  | - / -       | - / -     |          555.8 |
+
+### Can I invite someone I know?
+Sure, the most users we have the less it costs for each person overall!
