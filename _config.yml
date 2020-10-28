@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Interstellarum Server
 show_downloads: false
+show_header: false
