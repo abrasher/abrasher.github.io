@@ -9,6 +9,9 @@ You can request an unlimited amount of TV and Movies now! Use the link above and
 ### How long does it take for a new episode / movie to be added?
 It depends on usually on the popularity of the show. At worst it takes about an hour after the show has aired, at best it leaks early! I would say and average of 20 minutes after the show has aired!
 
+### How do I always play at max quality?
+Quality is set for each video player. You can change it inside the settings for the application.
+
 ### What Quality am I allowed to play at?
 You can play at any quality! There is usually a quality setting in each Plex that lets you set to original quality!
 
