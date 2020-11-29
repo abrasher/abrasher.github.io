@@ -49,3 +49,5 @@ Here is the current list. I am starting to charge for the month of December as N
 | John    | Dec 2020     | 1 year  |
 | Samra   | Dec 2020     | 1 year  |
 | Fiona   | Dec 2020     | 3 month |
+| Zaman   | Dec 2020     | 1 year  |
+| Steffan | Dec 2020     | 1 year  |
