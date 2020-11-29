@@ -38,3 +38,14 @@ Therefore the monthly cost is around $7 per user.
 
 ### Can I invite someone I know?
 Sure, the more users we have the less it costs for each person overall!
+
+### When do I pay you next?
+Here is the current list. I am starting to charge for the month of December as November the server wasn't fully ready. 
+
+| Name    | Payment Date | Length  |
+|---------|--------------|---------|
+| Parents | Dec 2020     | 1 year  |
+| Sister  | Dec 2020     | 1 year  |
+| John    | Dec 2020     | 1 year  |
+| Samra   | Dec 2020     | 1 year  |
+| Fiona   | Dec 2020     | 3 month |
