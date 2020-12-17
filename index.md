@@ -1,5 +1,8 @@
+# Update
+I switched providers / servers, let me know if anything isn't working. The link below has changed to reflect this.
+
 ## Quicklinks
-* [Request a Show or Movie](https://rb.swizzin.ltd/qinsignificance/ombi)
+* [Request a Show or Movie](https://qinsignificance.lw850.usbx.me/ombi)
 
 ## FAQ
 
