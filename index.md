@@ -28,7 +28,7 @@ You can ask for access to a 4K TV and Movie Library. They are two separate libra
 3. Most 4K content is HDR which requires a device that playback HDR and a display that can play HDR. Without this the colours are washed out and unwatchable.
 
 ### How much does the server cost a month?
-The server costs me around 46 dollars a month. I am sharing the server with myself and 6 others.
+The server costs me around 46 dollars a month. I am sharing the server with myself and 8 others.
 Therefore the monthly cost is around $7 per user.
 
 | Expense                | Price (CAD) | Period    | Total (Yearly) |
@@ -54,3 +54,4 @@ Here is the current list. I am starting to charge for the month of December as N
 | Fiona   | Dec 2020     | 3 month |
 | Zaman   | Dec 2020     | 1 year  |
 | Steffan | Dec 2020     | 1 year  |
+| Braeden | Jan 2020     | 1 year  |
